@@ -1,5 +1,5 @@
 - Every React / Node Application has a package.json file in application root folder.
-- Let's add [package.json] (https://docs.npmjs.com/files/package.json)
+- Let's add [package.json] [1]
 
 - install node / npm if it is not installed. 
     - `brew install node` 
@@ -11,3 +11,5 @@
 - Now you can see the `package.json` file created. 
 
 - Here we passed `-y` argument with `npm init`, So it will not asked `name`, `version` .. ..  details. It will take default.
+
+[1]: https://docs.npmjs.com/files/package.json "package.json"
